@@ -1,0 +1,111 @@
+body{
+    background-color: black;
+}
+/*homepagina start*/
+
+#logo{
+    width: 150px;
+    height: 100px;
+}
+/*text courses*/
+body{
+    background: black;
+    background-size: cover;
+    font-family: 'OCR A Extended', sans-serif;                   
+    color: rgb(72, 122, 72);
+  }
+  .container3{
+    display: inline-block;
+    position: absolute;
+    left: 10%;
+    top: 10%;
+  }
+  .typed-out{
+    overflow: hidden;
+    border-right: .15em solid rgb(72, 122, 72);
+    white-space: nowrap;
+    animation: 
+      typing 3s forwards;
+    font-size: 2.9rem;
+    width: 0;
+  }
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+    
+  }
+
+
+/*buttons courses*/
+#cyber{
+    color: white;
+    font-size: 30px;
+    background-color: rgb(72, 122, 72);
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    border-radius: 20px;
+    font-family: 'OCR A Extended', sans-serif;
+}
+#safe{
+    color: white;
+    font-size: 30px;
+    background-color: rgb(48, 75, 48);
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    border-radius: 20px;
+    font-family: 'OCR A Extended', sans-serif;
+}
+#social{
+    color: white;
+    font-size: 30px;
+    background-color: rgb(144, 218, 144);
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    top: 70%;
+    left: 20%;
+    border-radius: 20px;
+    font-family: 'OCR A Extended', sans-serif;
+}
+#password{
+    color: white;
+    font-size: 30px;
+    background-color:rgb(48, 75, 48) ;
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    top: 30%;
+    left: 55%;
+    border-radius: 20px;
+    font-family: 'OCR A Extended', sans-serif;
+}
+#privacy{
+    color: white;
+    font-size: 30px;
+    background-color:  rgb(144, 218, 144);
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    left: 55%;
+    border-radius: 20px;
+    font-family: 'OCR A Extended', sans-serif;
+}
+#online{
+    color: white;
+    font-size: 30px;
+    background-color: rgb(72, 122, 72);
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    top: 70%;
+    left: 55%;
+    border-radius: 20px;
+    font-family: 'OCR A Extended', sans-serif;
+}

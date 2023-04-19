@@ -1,0 +1,116 @@
+body{
+    background-color: black;
+}
+/*homepagina start*/
+#background{
+    background-color: rgb(12, 12, 12);
+    width: 700px;
+    height: 400px;
+    position: absolute;
+    top: 20%;
+    left: 26%;
+    border-radius: 30px;
+}
+#logo{
+    width: 150px;
+    height: 100px;
+}
+
+#signuptxt{
+    font-family:'Agency FB', sans-serif;
+    font-size: 30px;
+    color:rgb(61, 146, 61);
+    position: absolute;
+    top: 25%;
+    left: 35%;
+}
+#logintxt{
+    font-family:'Agency FB', sans-serif;
+    font-size: 30px;
+    color:rgb(61, 146, 61);
+    position: absolute;
+    top: 25%;
+    left: 56%;
+}
+
+#stripe1{
+    background-color: rgb(61, 146, 61);
+    width: 100px;
+    height: 15px;
+    position: absolute;
+    top: 32%;
+    left: 34%
+}
+
+#stripe2{
+    background-color: rgb(61, 146, 61);
+    width: 95px;
+    height: 15px;
+    position: absolute;
+    top: 32%;
+    left: 55%;
+}
+
+/*signupform start*/
+.container{
+        width: 95px;
+        height: 400px;
+        padding: 16px;
+        position: absolute;
+        left: 30%;
+        top: 35%;
+        font-family:'Agency FB', sans-serif;
+        color: rgb(255, 253, 253);
+    }
+
+    input[type=text], input[type=password] {
+        background-color: rgb(27, 27, 27);
+        width: 170px;
+        padding: 12px 10px;
+        margin: 8px 0;
+        border-radius: 15px;
+      }
+/*loginform star*/
+.container1{
+    width: 95px;
+    height: 400px;
+    padding: 16px;
+    position: absolute;
+    left: 51%;
+    top: 35%;
+    font-family:'Agency FB', sans-serif;
+    color: rgb(255, 253, 253);
+}
+
+input[type=text], input[type=password] {
+    background-color: rgb(27, 27, 27);
+    width: 170px;
+    padding: 12px 10px;
+    margin: 8px 0;
+    border-radius: 15px;
+  }
+
+#signupbtn{
+    background-color:rgb(49, 109, 49);
+    color: white;
+    font-family:'Agency FB', sans-serif ;
+    font-size: 20px;
+    width: 130px;
+    height: 50px;
+    position: absolute;
+    top: 59%;
+    left: 33%;
+    border-radius: 16px;
+}
+#loginbtn{
+    background-color:rgb(49, 109, 49);
+    color: white;
+    font-family:'Agency FB', sans-serif ;
+    font-size: 20px;
+    width: 130px;
+    height: 50px;
+    position: absolute;
+    top: 59%;
+    left: 54%;
+    border-radius: 16px;
+}
