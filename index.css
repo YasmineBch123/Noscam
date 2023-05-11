@@ -1,9 +1,9 @@
 body{
-    background-color: black;
+    background-color: rgb(255, 255, 255);
 }
 /*homepagina start*/
 #background{
-    background-color: rgb(12, 12, 12);
+    background-color: rgb(255, 255, 255);
     width: 700px;
     height: 400px;
     position: absolute;
