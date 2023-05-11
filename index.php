@@ -1,20 +1,4 @@
-<<<<<<< Updated upstream
-=======
-<?php
-$servername = "localhost";
-$username = "username";
 
-
-// Create connection
-$conn = new mysqli($servername, $username, $password);
-
-// Check connection
-if ($conn->connect_error) {
-  die("Connection failed: " . $conn->connect_error);
-}
-echo "Connected successfully";
-?>
->>>>>>> Stashed changes
 
 <!DOCTYPE html>
 <html lang="en">
@@ -66,12 +50,14 @@ echo "Connected successfully";
       
           <label for="psw"><b>Password</b></label>
           <input type="password" placeholder="Enter Password" name="psw" required>
+        
         </div>
+        <button id="loginbtn">Log in</button>
       </form>
       <!--end login form-->
       <!--start loginbuttons-->
     
-      <button id="loginbtn">Log in</button>
+      
 
     
 </body>

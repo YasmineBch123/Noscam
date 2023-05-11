@@ -3,3 +3,4 @@
     $_SESSION['users']['loggedin'] = false;
     session_destroy();
     header("Location:index.php");
+?>
