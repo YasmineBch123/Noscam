@@ -1,4 +1,11 @@
 
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+
+=======
+>>>>>>> Stashed changes
+>>>>>>> cf1d5f4b4ccb0f0052c2784e6344755b4bd2896c
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -49,12 +56,14 @@
       
           <label for="psw"><b>Password</b></label>
           <input type="password" placeholder="Enter Password" name="psw" required>
+        
         </div>
+        <button id="loginbtn">Log in</button>
       </form>
       <!--end login form-->
       <!--start loginbuttons-->
     
-      <button id="loginbtn">Log in</button>
+      
 
     
 </body>
