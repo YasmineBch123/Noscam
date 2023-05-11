@@ -1,0 +1,124 @@
+body{
+    background-color: black;
+}
+button{
+    background-color: rgb(61, 146, 61);
+    border-radius: 16%;
+    font-family: 'OCR A Extended', sans-serif;
+    font-size: 20px;
+
+}
+/*homepagina start*/
+#background{
+    background-color: rgb(12, 12, 12);
+    width: 700px;
+    height: 400px;
+    position: absolute;
+    top: 20%;
+    left: 26%;
+    border-radius: 30px;
+}
+#logo{
+    width: 150px;
+    height: 100px;
+}
+#webbrowsingtext{
+    position: absolute;
+    font-family: 'OCR A Extended', sans-serif;
+    color: white;
+    font-size: 40px;
+    left: 35%;
+}
+#stripe1{
+    background-color: rgb(61, 146, 61);
+    width: 500px;
+    height: 15px;
+    position: absolute;
+    top: 23%;
+    left: 30%
+}
+#question1text{
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    font-family: 'OCR A Extended', sans-serif;
+    top: 26%;
+    left: 40%;
+}
+#question1{
+    position: absolute;
+    font-size: 20px;
+    color: rgb(61, 146, 61);
+    font-family:'Agency FB', sans-serif;
+    top: 34%;
+    left: 35%;
+}
+#Abtn{
+    position: absolute;
+    color: rgb(101, 171, 101);
+    top: 60%;
+    left: 30%;
+    width: 100px;
+    height: 100px;
+}
+#Bbtn{
+    position: absolute;
+    color: rgb(61, 146, 61);
+    top: 65%;
+    left: 30%;
+    width: 100px;
+    height: 100px;
+}
+#Cbtn{
+    position: absolute;
+    color: rgb(101, 171, 101);
+    top: 70%;
+    left: 30%;
+    width: 100px;
+    height: 100px;
+}
+#Dbtn{
+    position: absolute;
+    color: rgb(61, 146, 61);
+    top: 75%;
+    left: 30%;
+    width: 100px;
+    height: 100px;
+}
+#imagenaast{
+    position: absolute;
+    left: 62%;
+    top: 55%;
+}
+#antwoord1{
+    position: absolute;
+    left: 35%;
+    top: 60%;
+    color: white;
+    font-family: 'OCR A Extended', sans-serif;
+    font-size: 20px;
+}
+#antwoord2{
+    position: absolute;
+    left: 35%;
+    top: 65%;
+    color: white;
+    font-family: 'OCR A Extended', sans-serif;
+    font-size: 20px;
+}
+#antwoord3{
+    position: absolute;
+    left: 35%;
+    top: 70%;
+    color: white;
+    font-family: 'OCR A Extended', sans-serif;
+    font-size: 20px;
+}
+#antwoord4{
+    position: absolute;
+    left: 35%;
+    top: 75%;
+    color: white;
+    font-family: 'OCR A Extended', sans-serif;
+    font-size: 20px;
+}

@@ -27,7 +27,7 @@
     <div id="stripe1"></div>
     <div id="stripe2"></div>
     <!--Signupform start-->
-    <form action="action_page.php" method="post">
+    <form action="insert.php" method="post">
         <div class="imgcontainer">
         </div>
         <div class="container">
@@ -37,9 +37,10 @@
           <label for="psw"><b>Password</b></label>
           <input type="password" placeholder="Enter Password" name="psw" required>
         </div>
+     
+      <button id="signupbtn">Sign up!</button>
       </form>
-    
-      <form action="action_page.php" method="post">
+      <form action="inloggen.php" method="post">
         <div class="imgcontainer">
         </div>
         <div class="container1">
@@ -52,7 +53,7 @@
       </form>
       <!--end login form-->
       <!--start loginbuttons-->
-      <button id="signupbtn">Sign up!</button>
+    
       <button id="loginbtn">Log in</button>
 
     
