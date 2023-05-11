@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+=======
 <?php
 $servername = "localhost";
 $username = "username";
