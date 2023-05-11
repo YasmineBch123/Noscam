@@ -26,10 +26,10 @@
            online is more important than ever before. With<br>
             the ever-increasing threats of cyberattacks,<br>
              online fraud, and identity theft, it's essential
-             <br> to have a strong understanding of internet safety</div></div>
+             <br> to have a strong understanding of internet safeeee</div></div>
     <!--buttons-->
     <a href="courses.php"><button id="clickbtn"> Click here to start your journey!</button></a>
     <img id="mouse" src="1302118210.png">
-    
+    kmjknkn
 </body>
 </html>
