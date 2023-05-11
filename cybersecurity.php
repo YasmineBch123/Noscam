@@ -28,10 +28,10 @@
  a trustworthy source?</div>
 
  <!-- Antwoord buttons -->
- <div id="Abtn"><button>A</button></div> 
- <div id="Bbtn"><button>B</button></div>
- <div id="Cbtn"><button>C</button></div>
- <div id="Dbtn"><button>D</button></div>
+ <div id="Abutn"><button>A</button></div> 
+ <div id="Bbutn"><button>B</button></div>
+ <div id="Cbutn"><button>C</button></div>
+ <div id="Dbutn"><button>D</button></div>
  
  <div id="antwoord1">Hacking</div>
  <div id="antwoord2">Malware</div>
