@@ -28,7 +28,7 @@
              online fraud, and identity theft, it's essential
              <br> to have a strong understanding of internet safety</div></div>
     <!--buttons-->
-    <button id="clickbtn"><a href="#courses.html"></a> Click here to start your journey!</button>
+    <button id="clickbtn"><a href="courses.php"> Click here to start your journey!</button></a>
     <img id="mouse" src="1302118210.png">
     
 </body>
