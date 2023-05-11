@@ -13,12 +13,12 @@
     <div class="container3">
         <div class="typed-out">Courses</div></div>
   <!--buttons-->
-    <button id="cyber">Cybersecurity fundamentals</button>
-    <button id="safe">Safe webbrowsing</button>
-    <button id="social">Social engineering</button>
-    <button id="password">Password management</button>
-    <button id="privacy">Privacy and security</button>
-    <button id="online">Online identity theft</button>
+    <a href="cybersecurity.php"><button id="cyber">Cybersecurity fundamentals</button></a>
+    <a href="webbrowsing.php"><button id="safe">Safe webbrowsing</button></a>
+    <a href=""><button id="social">Social engineering</button></a>
+    <a href="management.php"><button id="password">Password management</button></a>
+    <a href="privacy.php"><button id="privacy">Privacy and security</button></a>
+    <a href=""><button id="online">Online identity theft</button></a>
     
 </body>
 </html>
