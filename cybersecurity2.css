@@ -52,7 +52,19 @@ button{
     font-family:'Agency FB', sans-serif;
     top: 34%;
     left: 36%;
-}
+    overflow: hidden;
+    border-right: .15em solid rgb(72, 122, 72);
+    white-space: nowrap;
+    animation: 
+      typing 3s forwards;
+    font-size: 1.6rem;
+    width: 0;
+  }
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 50% }
+
+  }
 #Abtn{
     position: absolute;
     color: rgb(101, 171, 101);
