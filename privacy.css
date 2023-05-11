@@ -22,12 +22,12 @@ button{
     width: 150px;
     height: 100px;
 }
-#cybersecuritytext{
+#privacytext{
     position: absolute;
     font-family: 'OCR A Extended', sans-serif;
     color: white;
     font-size: 40px;
-    left: 30%;
+    left: 35%;
 }
 #stripe1{
     background-color: rgb(61, 146, 61);
@@ -122,4 +122,3 @@ button{
     font-family: 'OCR A Extended', sans-serif;
     font-size: 25px;
 }
-

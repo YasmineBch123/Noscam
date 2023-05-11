@@ -1,10 +1,11 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="cybersecurity.css">
+    <link rel="stylesheet" href="webbrowsing2.css">
     <link href="https://fonts.cdnfonts.com/css/agency-fb" rel="stylesheet">
     <title>Document</title>
 </head>
@@ -17,15 +18,12 @@
 <!--Cybersecurity Fundamentals Background-->
 <div id="background"></div>
 <!--Signup text en login text-->
-<div id="cybersecuritytext">Cybersecurity fundamentals</div>
+<div id="webbrowsingtext">Safe web browsing</div>
 <!--Groene strepen onder Cybersecuritytext-->
 <div id="stripe1"></div>
 
-<div id="question1text">Question 1</div>
-<div id="question1">What is the term used to describe the practice of
- tricking poeple <br> into giving up sensitive information.
- Such as passwords or credit card numbers <br> by posing as
- a trustworthy source?</div>
+<div id="question2text">Question 2</div>
+<div id="question2">What does HTTPS stand for?</div>
 
  <!-- Antwoord buttons -->
  <div id="Abtn"><button>A</button></div> 
@@ -33,10 +31,10 @@
  <div id="Cbtn"><button>C</button></div>
  <div id="Dbtn"><button>D</button></div>
  
- <div id="antwoord1">Hacking</div>
- <div id="antwoord2">Malware</div>
- <div id="antwoord3">Social Engineering</div>
- <div id="antwoord4">Phishing</div>
+ <div id="antwoord1">Hypertext Transfer Protocol Secure</div>
+ <div id="antwoord2">Home Tool for Privacy and Security</div>
+ <div id="antwoord3">Hyperlink Tracking and Privacy System</div>
+ <div id="antwoord4">Hosting technology for Encrypted Private Sessions</div>
  <!-- Image -->
-<div id="imagenaast"><img src="hackingimage.jpg" width="400px" height="auto"></a></div>
+<div id="imagenaast"><img src="clearbrowsinghistory.jpg" width="400px" height="auto"></a></div>
 </body>

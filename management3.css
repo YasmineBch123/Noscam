@@ -22,12 +22,12 @@ button{
     width: 150px;
     height: 100px;
 }
-#cybersecuritytext{
+#managementtext{
     position: absolute;
     font-family: 'OCR A Extended', sans-serif;
     color: white;
     font-size: 40px;
-    left: 30%;
+    left: 33%;
 }
 #stripe1{
     background-color: rgb(61, 146, 61);
@@ -37,7 +37,7 @@ button{
     top: 23%;
     left: 30%
 }
-#question1text{
+#question3text{
     color: white;
     font-size: 40px;
     position: absolute;
@@ -45,13 +45,13 @@ button{
     top: 26%;
     left: 40%;
 }
-#question1{
+#question3{
     position: absolute;
     font-size: 20px;
     color: rgb(61, 146, 61);
     font-family:'Agency FB', sans-serif;
     top: 34%;
-    left: 30%;
+    left: 34%;
 }
 #Abtn{
     position: absolute;
@@ -87,7 +87,7 @@ button{
 }
 #imagenaast{
     position: absolute;
-    left: 60%;
+    left: 65%;
     top: 55%;
 }
 #antwoord1{
@@ -96,7 +96,7 @@ button{
     top: 60%;
     color: white;
     font-family: 'OCR A Extended', sans-serif;
-    font-size: 25px;
+    font-size: 20px;
 }
 #antwoord2{
     position: absolute;
@@ -104,7 +104,7 @@ button{
     top: 65%;
     color: white;
     font-family: 'OCR A Extended', sans-serif;
-    font-size: 25px;
+    font-size: 20px;
 }
 #antwoord3{
     position: absolute;
@@ -112,7 +112,7 @@ button{
     top: 70%;
     color: white;
     font-family: 'OCR A Extended', sans-serif;
-    font-size: 25px;
+    font-size: 20px;
 }
 #antwoord4{
     position: absolute;
@@ -120,6 +120,5 @@ button{
     top: 75%;
     color: white;
     font-family: 'OCR A Extended', sans-serif;
-    font-size: 25px;
+    font-size: 20px;
 }
-
