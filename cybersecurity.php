@@ -28,10 +28,10 @@
  a trustworthy source?</div>
 
  <!-- Antwoord buttons -->
- <div id="Abutn"><button>A</button></div> 
- <div id="Bbutn"><button>B</button></div>
- <div id="Cbutn"><button>C</button></div>
- <div id="Dbutn"><button>D</button></div>
+ <a href="cybersecuritywrong.php"><div id="Abutn"><button>A</button></div></a>
+ <a href="cybersecuritywrong.php"><div id="Bbutn"><button>B</button></div></a>
+ <a href="cybersecuritywrong.php"><div id="Cbutn"><button>C</button></div></a>
+ <a href="cybersecuritycorrect.php"><div id="Dbutn"><button>D</button></div></a>
  
  <div id="antwoord1">Hacking</div>
  <div id="antwoord2">Malware</div>

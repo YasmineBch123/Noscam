@@ -25,10 +25,10 @@
 <div id="question2">What is the primary goal of cybersecurity?</div>
 
  <!-- Antwoord buttons -->
- <div id="Abtn"><button>A</button></div> 
- <div id="Bbtn"><button>B</button></div>
- <div id="Cbtn"><button>C</button></div>
- <div id="Dbtn"><button>D</button></div>
+ <a href="cybersecuritywrong3.php"><div id="Abtn"><button>A</button></div></a>
+ <a href="cybersecuritywrong3.php"><div id="Bbtn"><button>B</button></div></a>
+ <a href="cybersecuritywrong3.php"><div id="Cbtn"><button>C</button></div></a>
+ <a href="cybersecuritycorrect3.php"><div id="Dbtn"><button>D</button></div></a>
  
  <div id="antwoord1">Protecting personal information</div>
  <div id="antwoord2">Preventing unauthorized acces</div>

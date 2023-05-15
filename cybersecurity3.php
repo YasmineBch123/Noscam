@@ -25,10 +25,10 @@
 <div id="question3">What is the best practice for handling suspicious email attachments?</div>
 
  <!-- Antwoord buttons -->
- <div id="Abtn"><button>A</button></div> 
- <div id="Bbtn"><button>B</button></div>
- <div id="Cbtn"><button>C</button></div>
- <div id="Dbtn"><button>D</button></div>
+ <a href="cybersecuritywrong4.php"><div id="Abtn"><button>A</button></div></a>
+ <a href="cybersecuritywrong4.php"><div id="Bbtn"><button>B</button></div></a>
+ <a href="cybersecuritycorrect4.php"><div id="Cbtn"><button>C</button></div></a>
+ <a href="cybersecuritywrong4.php"><div id="Dbtn"><button>D</button></div></a>
  
  <div id="antwoord1">Open and check the attachment</div>
  <div id="antwoord2">Delete the email without opening it</div>

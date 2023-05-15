@@ -25,10 +25,10 @@
 <div id="question4">What is two-factor authentication (2FA)?</div>
 
  <!-- Antwoord buttons -->
- <div id="Abtn"><button>A</button></div> 
- <div id="Bbtn"><button>B</button></div>
- <div id="Cbtn"><button>C</button></div>
- <div id="Dbtn"><button>D</button></div>
+ <a href="cybersecuritywrong5.php"><div id="Abtn"><button>A</button></div></a>
+ <a href="cybersecuritywrong5.php"><div id="Bbtn"><button>B</button></div></a>
+ <a href="cybersecuritywrong5.php"><div id="Cbtn"><button>C</button></div></a>
+ <a href="cybersecuritycorrect5.php"><div id="Dbtn"><button>D</button></div></a>
  
  <div id="antwoord1">Using two different passwords for the same account</div>
  <div id="antwoord2">Authenticating through two different devices</div>
