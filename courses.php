@@ -8,7 +8,7 @@
     <link href="https://fonts.cdnfonts.com/css/ocr-a-extended" rel="stylesheet">
     <title>Document</title>
 </head>
-<body>
+<body>  
     <!--courses text-->
     <div class="container3">
         <div class="typed-out">Courses</div></div>

@@ -1,8 +1,19 @@
+<?php
+if(isset($_POST['psw'])) {
+  $password = $_POST['psw'];
+  $hash = password_hash($password, PASSWORD_DEFAULT);
 
-<<<<<<< Updated upstream
+  if(password_verify($password, $hashed_password)) {
+    // password is correct
+} else {
+    // password is incorrect
+}
 
-=======
->>>>>>> Stashed changes
+}
+
+
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>

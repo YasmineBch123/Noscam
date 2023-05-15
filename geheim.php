@@ -4,6 +4,7 @@
     if(isset($_SESSION['users']['loggedin'])) {
         if($_SESSION['users']['loggedin'] === true) {
             //het is ok
+            header("Location: home.php")
         } else {
             //niet ok
             header("Location: index.php");

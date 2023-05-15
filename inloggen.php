@@ -21,10 +21,10 @@ echo $i;
  if ($i == 1){
     $_SESSION['users']['loggedin'] = true;
     header("location:home.php");
-} else {
+ }
+    else{
     $_SESSION['users']['loggedin'] = false;
     header("location:index.php");
 }
-
 
 ?>
