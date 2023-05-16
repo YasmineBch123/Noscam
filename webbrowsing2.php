@@ -26,10 +26,10 @@
 <div id="question2">What does HTTPS stand for?</div>
 
  <!-- Antwoord buttons -->
- <div id="Abtn"><button>A</button></div> 
- <div id="Bbtn"><button>B</button></div>
- <div id="Cbtn"><button>C</button></div>
- <div id="Dbtn"><button>D</button></div>
+ <a href="webbrowsingcorrect.php"><div id="Abtn"><button>A</button></div></a>
+ <a href="webbrowsingwrong3.php"><div id="Bbtn"><button>B</button></div></a>
+ <a href="webbrowsingwrong3.php"><div id="Cbtn"><button>C</button></div></a>
+ <a href="webbrowsingwrong3.php"><div id="Dbtn"><button>D</button></div></a>
  
  <div id="antwoord1">Hypertext Transfer Protocol Secure</div>
  <div id="antwoord2">Home Tool for Privacy and Security</div>

@@ -25,10 +25,10 @@
 <div id="question4">What is a phishing website?</div>
 
  <!-- Antwoord buttons -->
- <div id="Abtn"><button>A</button></div> 
- <div id="Bbtn"><button>B</button></div>
- <div id="Cbtn"><button>C</button></div>
- <div id="Dbtn"><button>D</button></div>
+ <a href="webbrowsingwrong5.php"><div id="Abtn"><button>A</button></div></a>
+ <a href="webbrowsingwrong5.php"><div id="Bbtn"><button>B</button></div></a>
+ <a href="webbrowsingcorrect5.php"><div id="Cbtn"><button>C</button></div>
+ <a href="webbrowsingwrong5.php"><div id="Dbtn"><button>D</button></div></a>
  
  <div id="antwoord1">Website that sells counterfeit products</div>
  <div id="antwoord2">Website that offrs free software downloads</div>

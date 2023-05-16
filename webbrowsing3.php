@@ -24,11 +24,11 @@
 <div id="question3text">Question 3</div>
 <div id="question3">What is the purpose of browser extensions?</div>
 
- <!-- Antwoord buttons -->
- <div id="Abtn"><button>A</button></div> 
- <div id="Bbtn"><button>B</button></div>
- <div id="Cbtn"><button>C</button></div>
- <div id="Dbtn"><button>D</button></div>
+ <!-- Antwoord buttons --></a>
+ <a href="webbrowsingwrong4.php"><div id="Abtn"><button>A</button></div> 
+ <a href="webbrowsingwrong4.php"><div id="Bbtn"><button>B</button></div></a>
+ <a href="webbrowsingcorrect4.php"><div id="Cbtn"><button>C</button></div></a>
+ <a href="webbrowsingwrong4.php"><div id="Dbtn"><button>D</button></div></a>
  
  <div id="antwoord1">Enhance the visual appearance of websites</div>
  <div id="antwoord2">Remove traces of your online activities</div>

@@ -25,10 +25,10 @@
 <div id="question1">What is the purpose of clearing your browsing history?</div>
 
  <!-- Antwoord buttons -->
- <div id="Abtn"><button>A</button></div> 
- <div id="Bbtn"><button>B</button></div>
- <div id="Cbtn"><button>C</button></div>
- <div id="Dbtn"><button>D</button></div>
+ <a href="webbrowsingwrong.php"><div id="Abtn"><button>A</button></div></a>
+ <a href="webbrowsingcorrect.php"><div id="Bbtn"><button>B</button></div></a>
+ <a href="webbrowsingwrong.php"><div id="Cbtn"><button>C</button></div></a>
+ <a href="webbrowsingwrong.php"><div id="Dbtn"><button>D</button></div></a>
  
  <div id="antwoord1">Free up storage space on your device</div>
  <div id="antwoord2">Remove traces of your online activities</div>

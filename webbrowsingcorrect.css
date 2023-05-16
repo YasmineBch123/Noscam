@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+button{
+    position: absolute;
+    color: white;
+    background-color:  rgb(119, 151, 119);
+    height: 50px;
+    width: 50px;
+
+}
+#correcttext{
+    position: absolute;
+    color: rgb(119, 151, 119);
+    font-size: 50px;
+    font-family: 'OCR A Extended', sans-serif;
+    top: 10%;
+    left: 40%;
+}
+#image{
+    position: absolute;
+    top: 20%;
+    left: 35%;
+}
+#nextbtn{
+    position: absolute;
+    left: 70%;
+    top: 80%;
+    font-family:'Agency FB', sans-serif ;
+    border-radius: 10px;
+    height: 50px;
+    width: 100px;
+}
