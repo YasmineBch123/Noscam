@@ -25,11 +25,11 @@
 <div id="question4">Which of the following is NOT a recommended practice for password management?</div>
 
  <!-- Antwoord buttons -->
- <div id="Abtn"><button>A</button></div> 
- <div id="Bbtn"><button>B</button></div>
- <div id="Cbtn"><button>C</button></div>
- <div id="Dbtn"><button>D</button></div>
- 
+ <a href="managementcorrect5.php"><div id="Abtn"><button>A</button></div></a>
+ <a href="managementwrong5.php"><div id="Bbtn"><button>B</button></div></a>
+ <a href="managementwrong5.php"><div id="Cbtn"><button>C</button></div></a>
+ <a href="managementwrong5.php"><div id="Dbtn"><button>D</button></div></a>
+
  <div id="antwoord1">Using a password with personal information</div>
  <div id="antwoord2">Enabling multi-factor authentication</div>
  <div id="antwoord3">Regularly updating passwords</div>

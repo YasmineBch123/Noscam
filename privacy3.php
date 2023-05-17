@@ -25,10 +25,10 @@
 <div id="question3">What is the purpose of a privacy policy?</div>
 
  <!-- Antwoord buttons -->
- <div id="Abtn"><button>A</button></div> 
- <div id="Bbtn"><button>B</button></div>
- <div id="Cbtn"><button>C</button></div>
- <div id="Dbtn"><button>D</button></div>
+ <a href="privacywrong4.php"><div id="Abtn"><button>A</button></div></a>
+ <a href="privacycorrect4.php"><div id="Bbtn"><button>B</button></div></a>
+ <a href="privacywrong4.php"><div id="Cbtn"><button>C</button></div></a>
+ <a href="privacywrong4.php"><div id="Dbtn"><button>D</button></div></a>
  
  <div id="antwoord1">Preventing data breaches</div>
  <div id="antwoord2">Disclosing how data is collected, used and shared</div>

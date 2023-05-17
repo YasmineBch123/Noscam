@@ -21,14 +21,14 @@
 <!--Groene strepen onder Cybersecuritytext-->
 <div id="stripe1"></div>
 
-<div id="question2text">Question 1</div>
+<div id="question2text">Question 2</div>
 <div id="question2">What is a cookie in the context of web browsing?</div>
 
  <!-- Antwoord buttons -->
- <div id="Abtn"><button>A</button></div> 
- <div id="Bbtn"><button>B</button></div>
- <div id="Cbtn"><button>C</button></div>
- <div id="Dbtn"><button>D</button></div>
+ <a href="privacywrong3.php"><div id="Abtn"><button>A</button></div></a>
+ <a href="privacycorrect3.php"><div id="Bbtn"><button>B</button></div></a>
+ <a href="privacywrong3.php"><div id="Cbtn"><button>C</button></div></a>
+ <a href="privacywrong3.php"><div id="Dbtn"><button>D</button></div></a>
  
  <div id="antwoord1">A type of malware</div>
  <div id="antwoord2">Tracking mechanism used to collect user data</div>

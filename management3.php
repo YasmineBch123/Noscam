@@ -25,10 +25,10 @@
 <div id="question3">What is the purpose of password complexity requirements?</div>
 
  <!-- Antwoord buttons -->
- <div id="Abtn"><button>A</button></div> 
- <div id="Bbtn"><button>B</button></div>
- <div id="Cbtn"><button>C</button></div>
- <div id="Dbtn"><button>D</button></div>
+ <a href="managementwrong4.php"><div id="Abtn"><button>A</button></div></a>
+ <a href="managementwrong4.php"><div id="Bbtn"><button>B</button></div></a>
+ <a href="managementcorrect4.php"><div id="Cbtn"><button>C</button></div></a>
+ <a href="managementwrong4.php"><div id="Dbtn"><button>D</button></div></a>
  
  <div id="antwoord1">Make it difficult for users to remember passwords</div>
  <div id="antwoord2">That passwords mat specific security standards</div>

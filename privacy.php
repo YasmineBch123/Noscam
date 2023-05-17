@@ -25,10 +25,10 @@
 <div id="question1">Which of the following is an example of personally identifiable information?</div>
 
  <!-- Antwoord buttons -->
- <div id="Abtn"><button>A</button></div> 
- <div id="Bbtn"><button>B</button></div>
- <div id="Cbtn"><button>C</button></div>
- <div id="Dbtn"><button>D</button></div>
+ <a href="privacycorrect.php"><div id="Abtn"><button>A</button></div></a>
+ <a href="privacywrong.php"><div id="Bbtn"><button>B</button></div></a>
+ <a href="privacywrong.php"><div id="Cbtn"><button>C</button></div></a>
+ <a href="privacywrong.php"><div id="Dbtn"><button>D</button></div></a>
  
  <div id="antwoord1">Username</div>
  <div id="antwoord2">IP address</div>

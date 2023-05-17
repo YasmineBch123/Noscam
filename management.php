@@ -25,10 +25,10 @@
 <div id="question1">What is a passphrase?</div>
 
  <!-- Antwoord buttons -->
- <div id="Abtn"><button>A</button></div> 
- <div id="Bbtn"><button>B</button></div>
- <div id="Cbtn"><button>C</button></div>
- <div id="Dbtn"><button>D</button></div>
+ <a href="managementwrong.php"><div id="Abtn"><button>A</button></div></a>
+ <a href="managementwrong.php"><div id="Bbtn"><button>B</button></div></a>
+ <a href="managementcorrect.php"><div id="Cbtn"><button>C</button></div></a>
+ <a href="managementwrong.php"><div id="Dbtn"><button>D</button></div></a>
  
  <div id="antwoord1">Short and complex password</div>
  <div id="antwoord2">Sequence of random characters</div>
